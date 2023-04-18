@@ -45,15 +45,15 @@ python -m venv venv
 2. Install all packages with correct version.
 - All packages with correct veersions are saved into ```../data/requirements.txt``` 
 - Download the file with requirements
-- Activate the virtual environment by:
+- Activate the virtual environment in the terminal by:
 ```
 .\venv\scripts\activate
 ``` 
-- Install the requirements by:
+- Install the requirementsin the terminal by:
 ```
 pip install -r requirements.txt
 ``` 
 
 ## Running scipts
 
-We created script in Jupyter notebook ```penguins_model.ipynb``` that build classification models. Run this script in terminal.
+We created script in Jupyter notebook ```penguins_model.ipynb```. To build classification models run this script in the terminal.
