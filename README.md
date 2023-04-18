@@ -35,6 +35,8 @@ In order to accomplish the task, we took the following steps: Problem definition
 
 ## Instaling environment
 
+Before running any scripts, you should first install the environment. Once you've created your own environment, you should install all the packages with the correct versions that were used in our scripts and on which the models are built on.
+
 1. Create new virtual environment
 - Using version ```Python 3.8.10``` 
 - Create the virtual environment in the terminal by:
@@ -52,3 +54,7 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ``` 
+
+## Running scipts
+
+We created two version of scripts in Jupyter notebook. Fist script ```final.ipynb``` does not save models into h5 files. Second script ```final_loaded.ipynb``` saves models in h5 files to ```../models``` foled 
