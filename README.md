@@ -57,4 +57,4 @@ pip install -r requirements.txt
 
 ## Running scipts
 
-We created two version of scripts in Jupyter notebook. Fist script ```final.ipynb``` does not save models into h5 files. Second script ```final_loaded.ipynb``` saves models in h5 files to ```../models``` foled 
+We created two version of scripts in Jupyter notebook. Fist script ```final.ipynb``` does not save models into h5 files. Second script ```final_loaded.ipynb``` saves models in h5 files to ```../models``` folder. Apart from this the scripts are the same.
