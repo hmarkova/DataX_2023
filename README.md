@@ -33,7 +33,7 @@ In order to accomplish the task, we took the following steps: Problem definition
 ├── requirements.txt                  <- Requirements file to run the project.
 ```
 
-## Instaling the environemnt
+## Instaling the environment
 
 1. Create new virtual environment
 - Using version ```Python 3.8.10``` 
