@@ -25,8 +25,7 @@ In order to accomplish the task, we took the following steps: Problem definition
 │    ├── gb_model.h5         <- Gradient Boost Model.
 │
 ├── notebooks     <- All Jupyter notebooks created in the project. 
-│    ├── final.ipynb <- Final notebook without saving models into h5 files.
-│    ├── final_loaded.ipynb <- Final notebook including saving models into h5 files.
+│    ├── penguins_model.ipynb <- Jupyter notebook with building classification models.
 │
 ├── README.md                         <- The README file for users who wants to use this project.
 ├── Report                            <- Documentation of our project.
@@ -57,4 +56,4 @@ pip install -r requirements.txt
 
 ## Running scipts
 
-We created two version of scripts in Jupyter notebook. Fist script ```final.ipynb``` does not save models into h5 files. Second script ```final_loaded.ipynb``` saves models in h5 files to ```../models``` folder. Apart from this the scripts are the same.
+We created script in Jupyter notebook ```penguins_model.ipynb``` that build classification models. Run this script in terminal.
